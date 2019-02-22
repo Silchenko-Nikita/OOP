@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCarrot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Carrot weight="10" CALORIES="5" GROWING_TIME="32" />
+  <Carrot weight="10" CALORIES="5" GROWING_TIME="32" />
+  <Carrot weight="10" CALORIES="5" GROWING_TIME="32" />
+</ArrayOfCarrot>
